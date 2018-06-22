@@ -7,6 +7,10 @@
 		{
 			"Name": "UE4Duino",
 			"Enabled": true
+		},
+		{
+			"Name": "SimpleHMD",
+			"Enabled": true
 		}
 	]
 }
