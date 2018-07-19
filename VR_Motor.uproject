@@ -1,15 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.19",
+	"EngineAssociation": "{28FD5C16-4B41-9CA8-9DB9-17A05BC034A9}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "UE4Duino",
-			"Enabled": true
-		},
-		{
-			"Name": "SimpleHMD",
 			"Enabled": true
 		}
 	]
