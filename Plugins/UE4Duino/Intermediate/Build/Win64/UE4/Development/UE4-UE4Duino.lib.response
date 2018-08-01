@@ -2,7 +2,7 @@
 /errorReport:prompt
 /MACHINE:x64
 /SUBSYSTEM:WINDOWS
-"G:\9999999999999\VR_Motor\Plugins\UE4Duino\Intermediate\Build\Win64\UE4\Development\UE4Duino\Module.UE4Duino.cpp.obj"
-"G:\9999999999999\VR_Motor\Plugins\UE4Duino\Intermediate\Build\Win64\UE4\Development\UE4Duino\Module.UE4Duino.gen.cpp.obj"
-"G:\9999999999999\VR_Motor\Intermediate\Build\Win64\UE4\Development\UE4Duino\PCLaunch.rc.res"
-/OUT:"G:\9999999999999\VR_Motor\Plugins\UE4Duino\Binaries\Win64\UE4-UE4Duino.lib"
+"C:\Users\Administrator\Desktop\VR_Motor\Plugins\UE4Duino\Intermediate\Build\Win64\UE4\Development\UE4Duino\Module.UE4Duino.cpp.obj"
+"C:\Users\Administrator\Desktop\VR_Motor\Plugins\UE4Duino\Intermediate\Build\Win64\UE4\Development\UE4Duino\Module.UE4Duino.gen.cpp.obj"
+"C:\Users\Administrator\Desktop\VR_Motor\Intermediate\Build\Win64\UE4\Development\UE4Duino\PCLaunch.rc.res"
+/OUT:"C:\Users\Administrator\Desktop\VR_Motor\Plugins\UE4Duino\Binaries\Win64\UE4-UE4Duino.lib"
